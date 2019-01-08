@@ -1,0 +1,146 @@
+{
+    "texasbasketballteams":[{
+        "city": "Houston",
+        "teamname": "Rockets",
+        "shortname": "Houston_Rockets",
+        "mascot": "Clutch",
+        "championships": "2",
+        "starting5": ["James Harden", " Chris Paul", " Clint Capela", " PJ Tucker", " Danuel House"]
+    },{
+        "city": "San Antonio",
+        "teamname": "Spurs",
+        "shortname": "San_Antonio_Spurs",
+        "mascot": "The Coyote",
+        "championships": "5",
+        "starting5": ["Derrick White", " Bryn Forbes", " DeMar DeRozan", " Rudy Gay", " LaMarcus Aldridge"]
+    },{
+        "city": "Dallas",
+        "teamname": "Mavericks",
+        "shortname": "Dallas_Mavericks",
+        "mascot": "Champ",
+        "championships": "1",
+        "starting5": ["Dennis Smith Jr.", " Luka Doncic", " Wesley Matthews", " Harrison Barnes", " DeAndre Jordan"]
+    }
+],
+    "players":[{
+        "name": "James Harden",
+        "shortname": "James_Harden",
+        "currentteam": "Houston Rockets",
+        "teamshort": "Houston_Rockets",
+        "jersey": "No. 13",
+        "position": "Shooting Guard/Point Guard",
+        "teamsPlayedFor": ["Oklahoma City Thunder", " Houston Rockets"]
+    },{
+        "name": "Chris Paul",
+        "shortname": "Chris_Paul",
+        "currentteam": "Houston Rockets",
+        "teamshort": "Houston_Rockets",
+        "jersey": "No. 3",
+        "position": "Point Guard",
+        "teamsPlayedFor": ["New Orleans Hornets", " Los Angeles Clippers", " Houston Rockets"]
+    },{
+        "name": "Clint Capela",
+        "shortname": "Clint_Capela",
+        "currentteam": "Houston Rockets",
+        "teamshort": "Houston_Rockets",
+        "jersey": "No. 15",
+        "position": "Center",
+        "teamsPlayedFor": ["Houston Rockets"]
+    },{
+        "name": "PJ Tucker",
+        "shortname": "PJ_Tucker",
+        "currentteam": "Houston Rockets",
+        "teamshort": "Houston_Rockets",
+        "jersey": "No. 17",
+        "position": "Small Forward/Power Forward",
+        "teamsPlayedFor": ["Toronto Raptors", " Phoenix Suns", " Houston Rockets"]
+    },{
+        "name": "Danuel House",
+        "shortname": "Danuel_House",
+        "currentteam": "Houston Rockets",
+        "teamshort": "Houston_Rockets",
+        "jersey": "No. 4",
+        "position": "Shooting Guard/Small Forward",
+        "teamsPlayedFor": ["Washington Wizards", " Phoenix Suns", " Houston Rockets"]
+    },{
+        "name": "Derrick White",
+        "shortname": "Derrick_White",
+        "currentteam": "San Antonio Spurs",
+        "teamshort": "San_Antonio_Spurs",
+        "jersey": "No. 4",
+        "position": "Point Guard/Shooting Guard",
+        "teamsPlayedFor": ["San Antonio Spurs"]
+    },{
+        "name": "Bryn Forbes",
+        "shortname": "Bryn_Forbes",
+        "currentteam": "San Antonio Spurs",
+        "teamshort": "San_Antonio_Spurs",
+        "jersey": "No. 11",
+        "position": "Shooting Guard/Point Guard",
+        "teamsPlayedFor": ["San Antonio Spurs"]
+    },{
+        "name": "DeMar DeRozan",
+        "shortname": "DeMar_DeRozan",
+        "currentteam": "San Antonio Spurs",
+        "teamshort": "San_Antonio_Spurs",
+        "jersey": "No. 10",
+        "position": "Shooting Guard",
+        "teamsPlayedFor": ["Toronto Raptors"," San Antonio Spurs"]
+    },{
+        "name": "Rudy Gay",
+        "shortname": "Rudy_Gay",
+        "currentteam": "San Antonio Spurs",
+        "teamshort": "San_Antonio_Spurs",
+        "jersey": "No. 22",
+        "position": "Small Forward/Power Forward",
+        "teamsPlayedFor": ["Memphis Grizzlies", " Toronto Raptors", " Sacramento Kings", " San Antonio Spurs"]
+    },{
+        "name": "LaMarcus Aldridge",
+        "shortname": "LaMarcus_Aldridge",
+        "currentteam": "San Antonio Spurs",
+        "teamshort": "San_Antonio_Spurs",
+        "jersey": "No. 12",
+        "position": "Power Forward/Center",
+        "teamsPlayedFor": ["Portland Trail Blazers", " San Antonio Spurs"]
+    },{
+        "name": "Dennis Smith Jr.",
+        "shortname": "Dennis_Smith_Jr",
+        "currentteam": "Dallas Mavericks",
+        "teamshort": "Dallas_Mavericks",
+        "jersey": "No. 1",
+        "position": "Point Guard",
+        "teamsPlayedFor": ["Dallas Mavericks"]
+    },{
+        "name": "Luka Doncic",
+        "shortname": "Luka_Doncic",
+        "currentteam": "Dallas Mavericks",
+        "teamshort": "Dallas_Mavericks",
+        "jersey": "No. 77",
+        "position": "Point Guard",
+        "teamsPlayedFor": ["Dallas Mavericks"]
+    },{
+        "name": "Wesley Matthews",
+        "shortname": "Wesley_Matthews",
+        "currentteam": "Dallas Mavericks",
+        "teamshort": "Dallas_Mavericks",
+        "jersey": "No. 23",
+        "position": "Shooting Guard",
+        "teamsPlayedFor": ["Utah Jazz", " Portland Trail Blazers", " Dallas Mavericks"]
+    },{
+        "name": "Harrison Barnes",
+        "shortname": "Harrison_Barnes",
+        "currentteam": "Dallas Mavericks",
+        "teamshort": "Dallas_Mavericks",
+        "jersey": "No. 40",
+        "position": "Small Forward/Power Forward",
+        "teamsPlayedFor": ["Golden State Warriors", " Dallas Mavericks"]
+    },{
+        "name": "DeAndre Jordan",
+        "shortname": "DeAndre_Jordan",
+        "currentteam": "Dallas Mavericks",
+        "teamshort": "Dallas_Mavericks",
+        "jersey": "No. 6",
+        "position": "Center",
+        "teamsPlayedFor": ["Los Angeles Clippers"," Dallas Mavericks"]
+    }]
+}
