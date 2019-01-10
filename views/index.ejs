@@ -17,40 +17,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-        <!-- Brand -->
-        <a class="navbar-brand" href="#">Logo</a>
-
-        <!-- Links -->
-        <ul class="navbar-nav">
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                    Teams
-                </a>
-                <div class="dropdown-menu">
-                        <% if (teams.length > 0) { %>
-                            <% for (i=0; i< teams.length; i++) { %>
-                                <a class="dropdown-item" href="/team/<%= [i] %>"><%=teams[i].teamname%></a>  
-                                <% } %>
-                        <% } %>
-                </div>
-            </li>
-            <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                        Players
-                    </a>
-                    <div class="dropdown-menu">
-                            <% if (players.length > 0) { %>
-                                <% for (i=0; i< players.length; i++) { %>
-                                    <a class="dropdown-item" href="/player/<%= [i] %>"><%=players[i].name%></a>  
-                                    <% } %>
-                            <% } %>
-                    </div>
-            </li>
-
-            <!-- Dropdown -->
-        </ul>
-    </nav>
+    <% include partials/navbar.ejs %>
     <div id = "homemain" class = "d-flex align-items-center">
         <div class = "container row w-50 h-75 d-flex justify-content-center ml-5">
             <div class = "col d-flex justify-content-center align-items-center font-weight-bold text-white" id = "homeMainText">Where </br> amazing</br> happens.</div>

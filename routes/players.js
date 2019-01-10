@@ -15,7 +15,8 @@ router.get(`/player/:playerID`, (req,res)=>{
         pageID: 'home',
         teams: data.texasbasketballteams,
         playersData: data.players,
-        playerID: data.players.findIndex(grabPlayerID)
+        playerID: data.players.findIndex(grabPlayerID),
+        players: data.players,
     })
 
 })

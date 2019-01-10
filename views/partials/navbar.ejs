@@ -1,0 +1,41 @@
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <!-- Brand -->
+    <a class="navbar-brand m-0" href="/"><img src ="/images/backgrounds/nba_logo_2.png"></a>
+
+    <!-- Links -->
+    <div class ="d-flex justify-content-between container-fluid">
+    <ul class="navbar-nav">
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                Teams
+            </a>
+            <div class="dropdown-menu">
+                    <% if (teams.length > 0) { %>
+                        <% for (i=0; i< teams.length; i++) { %>
+                            <a class="dropdown-item" href="/team/<%= [i] %>"><%=teams[i].teamname%></a>  
+                            <% } %>
+                    <% } %>
+            </div>
+        </li>
+        <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                    Players
+                </a>
+                <div class="dropdown-menu">
+                        <% if (players.length > 0) { %>
+                            <% for (i=0; i< players.length; i++) { %>
+                                <a class="dropdown-item" href="/player/<%= [i] %>"><%=players[i].name%></a>  
+                                <% } %>
+                        <% } %>
+                </div>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="#">Forum</a>
+        </li>
+    </ul>
+    <form class="form-inline" action="/action_page.php">
+        <input class="form-control mr-sm-2" type="text" placeholder="Search">
+        <button class="btn btn-success" type="submit">Search</button>
+    </form>
+    </div>
+</nav>
