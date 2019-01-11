@@ -1,6 +1,14 @@
+@font-face {
+    font-family: 'Flama-Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Flama-Medium'), url('Flama-Medium.woff') format('woff');
+}
+
 body{
     width:100vw;
-    height:100vh;
+    height:auto;
+    font-family: "Flama-Medium", sans-serif;
 }
 
 
