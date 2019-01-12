@@ -29,7 +29,8 @@
         "teamshort": "Houston_Rockets",
         "jersey": "No. 13",
         "position": "Shooting Guard/Point Guard",
-        "teamsPlayedFor": ["Oklahoma City Thunder", " Houston Rockets"]
+        "teamsPlayedFor": ["Oklahoma City Thunder", " Houston Rockets"],
+        "twitter": "http//twitter.com/JHarden13?ref_src=twsrc%5Etfw"
     },{
         "name": "Chris Paul",
         "shortname": "Chris_Paul",
@@ -37,7 +38,8 @@
         "teamshort": "Houston_Rockets",
         "jersey": "No. 3",
         "position": "Point Guard",
-        "teamsPlayedFor": ["New Orleans Hornets", " Los Angeles Clippers", " Houston Rockets"]
+        "teamsPlayedFor": ["New Orleans Hornets", " Los Angeles Clippers", " Houston Rockets"],
+        "twitter": "https://twitter.com/CP3?ref_src=twsrc%5Etfw"
     },{
         "name": "Clint Capela",
         "shortname": "Clint_Capela",
@@ -45,7 +47,8 @@
         "teamshort": "Houston_Rockets",
         "jersey": "No. 15",
         "position": "Center",
-        "teamsPlayedFor": ["Houston Rockets"]
+        "teamsPlayedFor": ["Houston Rockets"],
+        "twitter":"https://twitter.com/CapelaClint?ref_src=twsrc%5Etfw"
     },{
         "name": "PJ Tucker",
         "shortname": "PJ_Tucker",
@@ -53,7 +56,8 @@
         "teamshort": "Houston_Rockets",
         "jersey": "No. 17",
         "position": "Small Forward/Power Forward",
-        "teamsPlayedFor": ["Toronto Raptors", " Phoenix Suns", " Houston Rockets"]
+        "teamsPlayedFor": ["Toronto Raptors", " Phoenix Suns", " Houston Rockets"],
+        "twitter": ""
     },{
         "name": "Danuel House",
         "shortname": "Danuel_House",
@@ -61,7 +65,9 @@
         "teamshort": "Houston_Rockets",
         "jersey": "No. 4",
         "position": "Shooting Guard/Small Forward",
-        "teamsPlayedFor": ["Washington Wizards", " Phoenix Suns", " Houston Rockets"]
+        "teamsPlayedFor": ["Washington Wizards", " Phoenix Suns", " Houston Rockets"],
+        "twitter": "https://twitter.com/DanuelHouseJr?ref_src=twsrc%5Etfw"
+
     },{
         "name": "Derrick White",
         "shortname": "Derrick_White",
@@ -69,7 +75,9 @@
         "teamshort": "San_Antonio_Spurs",
         "jersey": "No. 4",
         "position": "Point Guard/Shooting Guard",
-        "teamsPlayedFor": ["San Antonio Spurs"]
+        "teamsPlayedFor": ["San Antonio Spurs"],
+        "twitter":"https://twitter.com/Dwhite921?ref_src=twsrc%5Etfw"
+
     },{
         "name": "Bryn Forbes",
         "shortname": "Bryn_Forbes",
@@ -77,7 +85,9 @@
         "teamshort": "San_Antonio_Spurs",
         "jersey": "No. 11",
         "position": "Shooting Guard/Point Guard",
-        "teamsPlayedFor": ["San Antonio Spurs"]
+        "teamsPlayedFor": ["San Antonio Spurs"],
+        "twitter": "https://twitter.com/BrynjForbes?ref_src=twsrc%5Etfw"
+
     },{
         "name": "DeMar DeRozan",
         "shortname": "DeMar_DeRozan",
@@ -85,7 +95,9 @@
         "teamshort": "San_Antonio_Spurs",
         "jersey": "No. 10",
         "position": "Shooting Guard",
-        "teamsPlayedFor": ["Toronto Raptors"," San Antonio Spurs"]
+        "teamsPlayedFor": ["Toronto Raptors"," San Antonio Spurs"],
+        "twitter":"https://twitter.com/DeMar_DeRozan?ref_src=twsrc%5Etfw"
+
     },{
         "name": "Rudy Gay",
         "shortname": "Rudy_Gay",
@@ -93,7 +105,9 @@
         "teamshort": "San_Antonio_Spurs",
         "jersey": "No. 22",
         "position": "Small Forward/Power Forward",
-        "teamsPlayedFor": ["Memphis Grizzlies", " Toronto Raptors", " Sacramento Kings", " San Antonio Spurs"]
+        "teamsPlayedFor": ["Memphis Grizzlies", " Toronto Raptors", " Sacramento Kings", " San Antonio Spurs"],
+        "twitter": "https://twitter.com/RudyGay?ref_src=twsrc%5Etfw"
+
     },{
         "name": "LaMarcus Aldridge",
         "shortname": "LaMarcus_Aldridge",
@@ -101,7 +115,9 @@
         "teamshort": "San_Antonio_Spurs",
         "jersey": "No. 12",
         "position": "Power Forward/Center",
-        "teamsPlayedFor": ["Portland Trail Blazers", " San Antonio Spurs"]
+        "teamsPlayedFor": ["Portland Trail Blazers", " San Antonio Spurs"],
+        "twitter":"https://twitter.com/aldridge_12?ref_src=twsrc%5Etfw"
+
     },{
         "name": "Dennis Smith Jr.",
         "shortname": "Dennis_Smith_Jr",
@@ -109,7 +125,9 @@
         "teamshort": "Dallas_Mavericks",
         "jersey": "No. 1",
         "position": "Point Guard",
-        "teamsPlayedFor": ["Dallas Mavericks"]
+        "teamsPlayedFor": ["Dallas Mavericks"],
+        "twitter": "https://twitter.com/Dennis1SmithJr?ref_src=twsrc%5Etfw"
+
     },{
         "name": "Luka Doncic",
         "shortname": "Luka_Doncic",
@@ -117,7 +135,9 @@
         "teamshort": "Dallas_Mavericks",
         "jersey": "No. 77",
         "position": "Point Guard",
-        "teamsPlayedFor": ["Dallas Mavericks"]
+        "teamsPlayedFor": ["Dallas Mavericks"],
+        "twitter": ""
+
     },{
         "name": "Wesley Matthews",
         "shortname": "Wesley_Matthews",
@@ -125,7 +145,9 @@
         "teamshort": "Dallas_Mavericks",
         "jersey": "No. 23",
         "position": "Shooting Guard",
-        "teamsPlayedFor": ["Utah Jazz", " Portland Trail Blazers", " Dallas Mavericks"]
+        "teamsPlayedFor": ["Utah Jazz", " Portland Trail Blazers", " Dallas Mavericks"],
+        "twitter":"https://twitter.com/WessyWes23?ref_src=twsrc%5Etfw"
+
     },{
         "name": "Harrison Barnes",
         "shortname": "Harrison_Barnes",
@@ -133,7 +155,9 @@
         "teamshort": "Dallas_Mavericks",
         "jersey": "No. 40",
         "position": "Small Forward/Power Forward",
-        "teamsPlayedFor": ["Golden State Warriors", " Dallas Mavericks"]
+        "teamsPlayedFor": ["Golden State Warriors", " Dallas Mavericks"],
+        "twitter":"https://twitter.com/hbarnes?ref_src=twsrc%5Etfw"
+
     },{
         "name": "DeAndre Jordan",
         "shortname": "DeAndre_Jordan",
@@ -141,6 +165,8 @@
         "teamshort": "Dallas_Mavericks",
         "jersey": "No. 6",
         "position": "Center",
-        "teamsPlayedFor": ["Los Angeles Clippers"," Dallas Mavericks"]
+        "teamsPlayedFor": ["Los Angeles Clippers"," Dallas Mavericks"],
+        "twitter":"https://twitter.com/DeAndre?ref_src=twsrc%5Etfw"
+
     }]
 }
