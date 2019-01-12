@@ -1,8 +1,6 @@
 $(function(){
 
-    $(function(){
     $.getJSON('api',updateForum);
-    });
 
     $('#forum-post').submit((e)=>{
         e.preventDefault();
@@ -23,10 +21,10 @@ $(function(){
         }
     });
 
-    var updateForum = (data)=>{
+    function updateForum (data){
         var output ="";
         $.each(data, (key,item)=>{
-            output +=' <div class = "row first-row m-0"  style = "height:auto;max-width:100%;border-radius:10px">';
+            output +=' <div class = "row first-row m-0 mb-3"  style = "height:auto;max-width:100%;border-radius:10px">';
             output +='   <div class = "col p-0" style = "border-radius:10px">'
             output +='      <div class = "row p-1 d-flex flex-column justify-content-between m-0" style ="background-color:lightblue;border-radius:10px;max-width:100%;">'
             output +='          <div class ="container-fluid d-flex flex-row justify-content-between pt-1" style = "border-bottom:solid 1px grey;padding-right:0; padding-bottom:1vh; padding-left:0">'
