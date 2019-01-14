@@ -1,9 +1,10 @@
 main{
     height:93%;
+    
 }
 
 #homemain{
-    height:90vh;
+    height:92vh;
     background: url("../images/backgrounds/nba_logo_background.png");
     background-repeat: no-repeat;
     background-size:cover;
@@ -13,7 +14,7 @@ main{
     background: rgb(204, 204, 204); /* Fallback for older browsers without RGBA-support */
     background: rgba(37, 37, 37, 0.5);
     border-radius: 15px;
-    font-size:50pt
+    font-size:10vh
 }
 
 

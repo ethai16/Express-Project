@@ -20,6 +20,7 @@ router.get('/team/:teamID', (req,res)=>{
         pageTitle: team.teamname,
         pageID: 'home',
         teams: data.texasbasketballteams,
+        team:team,
         players: data.players,
         fullTeamName: team.city + " " +team.teamname,
         teamShortNameOnly: team.shortname,

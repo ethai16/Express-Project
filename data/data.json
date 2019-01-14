@@ -5,21 +5,25 @@
         "shortname": "Houston_Rockets",
         "mascot": "Clutch",
         "championships": "2",
-        "starting5": ["James Harden", " Chris Paul", " Clint Capela", " PJ Tucker", " Danuel House"]
+        "starting5": ["James Harden", " Chris Paul", " Clint Capela", " PJ Tucker", " Danuel House"],
+        "banner": "../images/houston_rockets/rockets_banner.png"
     },{
         "city": "San Antonio",
         "teamname": "Spurs",
         "shortname": "San_Antonio_Spurs",
         "mascot": "The Coyote",
         "championships": "5",
-        "starting5": ["Derrick White", " Bryn Forbes", " DeMar DeRozan", " Rudy Gay", " LaMarcus Aldridge"]
+        "starting5": ["Derrick White", " Bryn Forbes", " DeMar DeRozan", " Rudy Gay", " LaMarcus Aldridge"],
+        "banner": "../images/san_antonio_spurs/spurs_banner.png"
+
     },{
         "city": "Dallas",
         "teamname": "Mavericks",
         "shortname": "Dallas_Mavericks",
         "mascot": "Champ",
         "championships": "1",
-        "starting5": ["Dennis Smith Jr.", " Luka Doncic", " Wesley Matthews", " Harrison Barnes", " DeAndre Jordan"]
+        "starting5": ["Dennis Smith Jr.", " Luka Doncic", " Wesley Matthews", " Harrison Barnes", " DeAndre Jordan"],
+        "banner": "../images/dallas_mavericks/mavericks_banner.png"
     }
 ],
     "players":[{
