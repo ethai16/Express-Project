@@ -1,8 +1,12 @@
 main{
-    height:93%;
-    
+    height:93%; 
 }
 
+#mainholder{
+    background-image:url("../images/backgrounds/line_background.png");
+    background-color:black;
+    height:200vh;
+}
 #homemain{
     height:92vh;
     background: url("../images/backgrounds/nba_logo_background.png");
@@ -31,3 +35,12 @@ main{
     margin:2vw;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 } 
+
+.sticky {
+    position: fixed;
+    top: 0;
+}
+
+.sticky + .content {
+    padding-top: 60px;
+}
