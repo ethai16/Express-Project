@@ -3,8 +3,9 @@ main{
 }
 
 #mainholder{
-    background-image:url("../images/backgrounds/line_background.png");
-    background-color:black;
+    background-image:url("../images/backgrounds/hardwood.png");
+    background-color:rgba(65, 60, 60, 0.596);
+    background-size:cover;
     height:200vh;
 }
 #homemain{

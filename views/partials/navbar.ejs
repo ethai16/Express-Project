@@ -17,18 +17,6 @@
                     <% } %>
             </div>
         </li>
-        <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                    Players
-                </a>
-                <div class="dropdown-menu">
-                        <% if (players.length > 0) { %>
-                            <% for (i=0; i< players.length; i++) { %>
-                                <a class="dropdown-item" href="/player/<%= [i] %>"><%=players[i].name%></a>  
-                                <% } %>
-                        <% } %>
-                </div>
-        </li>
         <li class="nav-item">
             <a class="nav-link" href="/forum" id="forum-button">Forum</a>
         </li>

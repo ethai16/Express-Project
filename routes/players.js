@@ -4,18 +4,16 @@ var data = require('../data/data.json');
 
 
 router.get(`/player/:playerID`, (req,res)=>{
-    var player = data.players[req.params.playerID];
+    var player = req.params.playerID;
 
-    function grabPlayerID(element) {
-        return element.name == player.name;
-    }
+    let index = data.players.findIndex(ele => ele.name.toLowerCase() === req.params.playerID.toLowerCase())
 
     res.render('player',{
         pageTitle: player.name,
         pageID: 'home',
         teams: data.texasbasketballteams,
         playersData: data.players,
-        playerID: data.players.findIndex(grabPlayerID),
+        playerID: index,
         players: data.players,
     })
 
