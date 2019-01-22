@@ -6,7 +6,7 @@
         "mascot": "Clutch",
         "championships": "2",
         "starting5": ["James Harden", " Chris Paul", " Clint Capela", " PJ Tucker", " Danuel House"],
-        "banner": "../images/houston_rockets/rockets_banner.png",
+        "banner": "../images/backgrounds/rockets-banner.png",
         "info":"The Houston Rockets are an American professional basketball team based in Houston, Texas. The Rockets compete in the National Basketball Association (NBA), as a member of the league's Western Conference Southwest Division. The team plays its home games at the Toyota Center, located in downtown Houston. The Rockets have won two NBA championships and four Western Conference titles. The team was established as the San Diego Rockets, an expansion team originally based in San Diego, in 1967. In 1971, the Rockets moved to Houston."
     },{
         "city": "San Antonio",
@@ -15,7 +15,7 @@
         "mascot": "The Coyote",
         "championships": "5",
         "starting5": ["Derrick White", " Bryn Forbes", " DeMar DeRozan", " Rudy Gay", " LaMarcus Aldridge"],
-        "banner": "../images/san_antonio_spurs/spurs_banner.png",
+        "banner": "../images/backgrounds/spurs-banner.png",
         "info": "The San Antonio Spurs are an American professional basketball team based in San Antonio, Texas. The Spurs compete in the National Basketball Association (NBA) as a member of the league's Western Conference Southwest Division. The team plays its home games at the AT&T Center in San Antonio."
 
     },{
@@ -25,7 +25,7 @@
         "mascot": "Champ",
         "championships": "1",
         "starting5": ["Dennis Smith Jr.", " Luka Doncic", " Wesley Matthews", " Harrison Barnes", " DeAndre Jordan"],
-        "banner": "../images/dallas_mavericks/mavericks_banner.png",
+        "banner": "../images/backgrounds/mavericks-banner.png",
         "info": "The Dallas Mavericks (often referred to as the Mavs) are an American professional basketball team based in Dallas, Texas. The Mavericks compete in the National Basketball Association (NBA) as a member club of the league's Western Conference Southwest Division. The team plays its home games at the American Airlines Center, which it shares with the National Hockey League's Dallas Stars."
     }
 ],

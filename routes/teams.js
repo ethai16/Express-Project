@@ -28,7 +28,8 @@ router.get('/team/:teamID', (req,res)=>{
         teamMascot: team.mascot,
         championships: team.championships,
         startingFive: team.starting5,
-        info: team.info
+        info: team.info,
+        banner: team.banner
     })
 
 })

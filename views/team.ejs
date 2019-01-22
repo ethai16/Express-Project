@@ -40,10 +40,7 @@
     </header> -->
     <div id ="mainholder" class = "container-fluid" style = "overflow:auto">
     <main class="container d-flex flex-column align-items-center p-0 mt-3" style = "background-color:lightgrey; border-radius:5px">
-        <div class ="container d-flex align-items-center justify-content-center" style="text-align: center;color:white; height:50vh; background-image: url('../images/backgrounds/hardwood.png'); background-size:100% 100%; background-repeat: no-repeat">
-            <h1>
-                <%= fullTeamName%> 
-            </h1>
+        <div class ="container d-flex align-items-center justify-content-center" style="text-align: center;color:white; height:70vh; background-image: url(<%=banner%>); background-size:100% 100%; background-repeat: no-repeat">
         </div>
         <nav id ="navbar2" class="container navbar navbar-expand-sm bg-dark navbar-dark">
             <ul class="navbar-nav">
@@ -86,7 +83,7 @@
                 <% for (i=0; i< startingFive.length; i++) { %>
                 <div style="display:inline-block">
                     <div class="m-3" style="background-image:url(/images/backgrounds/rockets-site-bg_01.png);background-color:#2b3036;background-size: contain;border-radius:50%; height:10vw; width: 10vw; overflow: hidden">
-                        <a href="/player/<%= [i] %>" class="d-flex flex-column align-items-center justify-content-center"><img style ="width:150%"
+                        <a href="/player/<%=players[i].name%>" class="d-flex flex-column align-items-center justify-content-center"><img style ="width:150%"
                                 src="/images/<%=teamShortNameOnly%>/<%=players[i].shortname%>.png"></a>
                     </div>
                     <div class="d-flex justify-content-center">
