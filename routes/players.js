@@ -7,7 +7,6 @@ router.get(`/player/:playerID`, (req,res)=>{
     var player = req.params.playerID;
 
     let index = data.players.findIndex(ele => ele.name.toLowerCase() === req.params.playerID.toLowerCase());
-    console.log(index)
 
     res.render('player',{
         pageTitle: player.name,
